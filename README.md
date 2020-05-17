@@ -5,7 +5,7 @@ Hi! I'm Laís, a Physics PhD student from Brazil. I'm interested in Deep Learnin
 This is my LinkedIn:
 https://www.linkedin.com/in/laisouzalves/
 
-As you may see, I'm still working in my github, build new projects and learning about software development. 
+As you may see, I'm still working in my github, building new projects and learning about software development. 
 Hope you find interesting stuff around here.
 
 Cheers!
